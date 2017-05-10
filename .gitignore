@@ -1,0 +1,17 @@
+node_modules
+de_modules
+.DS_Store
+*/.DS_Store
+.idea/*
+/.idea/
+*.log
+extension.zip
+db/
+extension_src/
+*.pem
+*/*.pem
+*.iml
+*.out
+TAGS
+.tern-port
+tasks.org
